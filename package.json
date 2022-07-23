@@ -1,0 +1,27 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yousef",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^8.6.0",
+    "electron": "^5.0.3",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^6.5.2",
+    "open": "^6.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykangarani/GoodReadMe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ykangarani/GoodReadMe/issues"
+  },
+  "homepage": "https://github.com/ykangarani/GoodReadMe#readme"
+}
